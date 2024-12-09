@@ -25,3 +25,10 @@ This project demonstrates data storytelling and visualization skills using Power
 - **GitHub**: For version control and project sharing.
 - ## 📸 Dashboard Preview
 - ![Dashboard Overview](https://github.com/ceedee15/Sales-Dashboard-Project/blob/main/Overview%20Page.png)
+## Acknowledgments
+This dashboard was created as a part of a learning project to demonstrate skills in:
+- Data visualization
+- Storytelling with data
+- Power BI analytics
+
+Feel free to reach out for feedback or collaboration opportunities!
